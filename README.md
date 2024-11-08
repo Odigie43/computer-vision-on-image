@@ -1,4 +1,4 @@
-# computer-vision-on-image
+# computer-vision-on-image-processing
 I recently completed a project utilizing OpenCV to perform essential image processing tasks.
 This project involved:
 
